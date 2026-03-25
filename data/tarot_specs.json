@@ -1,0 +1,1331 @@
+[
+  {
+    "card_name": "The Fool",
+    "arcana": "major",
+    "suit": null,
+    "rank": null,
+    "layout_type": "single_figure_center",
+    "main_figure": "traveler",
+    "symbols": [
+      "dog",
+      "sun",
+      "cliff",
+      "bag",
+      "flower"
+    ],
+    "mood": "innocent adventurous",
+    "slug": "the_fool"
+  },
+  {
+    "card_name": "The Magician",
+    "arcana": "major",
+    "suit": null,
+    "rank": null,
+    "layout_type": "single_figure_center",
+    "main_figure": "magician",
+    "symbols": [
+      "wand",
+      "cup",
+      "sword",
+      "pentacle",
+      "table",
+      "infinity"
+    ],
+    "mood": "focused powerful",
+    "slug": "the_magician"
+  },
+  {
+    "card_name": "The High Priestess",
+    "arcana": "major",
+    "suit": null,
+    "rank": null,
+    "layout_type": "single_figure_center",
+    "main_figure": "priestess",
+    "symbols": [
+      "moon",
+      "scroll",
+      "pillars",
+      "veil"
+    ],
+    "mood": "mysterious contemplative",
+    "slug": "the_high_priestess"
+  },
+  {
+    "card_name": "The Empress",
+    "arcana": "major",
+    "suit": null,
+    "rank": null,
+    "layout_type": "single_figure_center",
+    "main_figure": "empress",
+    "symbols": [
+      "crown",
+      "wheat",
+      "forest",
+      "throne"
+    ],
+    "mood": "abundant nurturing",
+    "slug": "the_empress"
+  },
+  {
+    "card_name": "The Emperor",
+    "arcana": "major",
+    "suit": null,
+    "rank": null,
+    "layout_type": "single_figure_center",
+    "main_figure": "emperor",
+    "symbols": [
+      "throne",
+      "scepter",
+      "mountains",
+      "ram"
+    ],
+    "mood": "stable authoritative",
+    "slug": "the_emperor"
+  },
+  {
+    "card_name": "The Hierophant",
+    "arcana": "major",
+    "suit": null,
+    "rank": null,
+    "layout_type": "single_figure_center",
+    "main_figure": "teacher",
+    "symbols": [
+      "staff",
+      "keys",
+      "acolytes"
+    ],
+    "mood": "solemn traditional",
+    "slug": "the_hierophant"
+  },
+  {
+    "card_name": "The Lovers",
+    "arcana": "major",
+    "suit": null,
+    "rank": null,
+    "layout_type": "double_figure",
+    "main_figure": "lovers",
+    "symbols": [
+      "angel",
+      "tree",
+      "sun",
+      "serpent"
+    ],
+    "mood": "harmonious fateful",
+    "slug": "the_lovers"
+  },
+  {
+    "card_name": "The Chariot",
+    "arcana": "major",
+    "suit": null,
+    "rank": null,
+    "layout_type": "vehicle_center",
+    "main_figure": "charioteer",
+    "symbols": [
+      "chariot",
+      "two beasts",
+      "canopy"
+    ],
+    "mood": "driven controlled",
+    "slug": "the_chariot"
+  },
+  {
+    "card_name": "Strength",
+    "arcana": "major",
+    "suit": null,
+    "rank": null,
+    "layout_type": "figure_animal",
+    "main_figure": "tamer",
+    "symbols": [
+      "lion",
+      "infinity",
+      "flowers"
+    ],
+    "mood": "calm courage",
+    "slug": "strength"
+  },
+  {
+    "card_name": "The Hermit",
+    "arcana": "major",
+    "suit": null,
+    "rank": null,
+    "layout_type": "single_figure_center",
+    "main_figure": "hermit",
+    "symbols": [
+      "lantern",
+      "staff",
+      "mountain"
+    ],
+    "mood": "wise introspective",
+    "slug": "the_hermit"
+  },
+  {
+    "card_name": "Wheel of Fortune",
+    "arcana": "major",
+    "suit": null,
+    "rank": null,
+    "layout_type": "symbol_center",
+    "main_figure": "wheel",
+    "symbols": [
+      "wheel",
+      "sphinx",
+      "serpent",
+      "clouds"
+    ],
+    "mood": "cyclical cosmic",
+    "slug": "wheel_of_fortune"
+  },
+  {
+    "card_name": "Justice",
+    "arcana": "major",
+    "suit": null,
+    "rank": null,
+    "layout_type": "single_figure_center",
+    "main_figure": "judge",
+    "symbols": [
+      "scales",
+      "sword",
+      "throne"
+    ],
+    "mood": "balanced exact",
+    "slug": "justice"
+  },
+  {
+    "card_name": "The Hanged Man",
+    "arcana": "major",
+    "suit": null,
+    "rank": null,
+    "layout_type": "suspended_figure",
+    "main_figure": "hanged man",
+    "symbols": [
+      "tree",
+      "halo"
+    ],
+    "mood": "surrendered enlightened",
+    "slug": "the_hanged_man"
+  },
+  {
+    "card_name": "Death",
+    "arcana": "major",
+    "suit": null,
+    "rank": null,
+    "layout_type": "figure_mount",
+    "main_figure": "skeletal rider",
+    "symbols": [
+      "horse",
+      "flag",
+      "sunrise"
+    ],
+    "mood": "grave transformative",
+    "slug": "death"
+  },
+  {
+    "card_name": "Temperance",
+    "arcana": "major",
+    "suit": null,
+    "rank": null,
+    "layout_type": "single_figure_center",
+    "main_figure": "angel",
+    "symbols": [
+      "two cups",
+      "water",
+      "path"
+    ],
+    "mood": "balanced healing",
+    "slug": "temperance"
+  },
+  {
+    "card_name": "The Devil",
+    "arcana": "major",
+    "suit": null,
+    "rank": null,
+    "layout_type": "triangle_top",
+    "main_figure": "devil",
+    "symbols": [
+      "chains",
+      "two captives",
+      "torch"
+    ],
+    "mood": "oppressive tempting",
+    "slug": "the_devil"
+  },
+  {
+    "card_name": "The Tower",
+    "arcana": "major",
+    "suit": null,
+    "rank": null,
+    "layout_type": "tower_scene",
+    "main_figure": "tower",
+    "symbols": [
+      "lightning",
+      "fire",
+      "falling figures"
+    ],
+    "mood": "catastrophic sudden",
+    "slug": "the_tower"
+  },
+  {
+    "card_name": "The Star",
+    "arcana": "major",
+    "suit": null,
+    "rank": null,
+    "layout_type": "single_figure_bottom",
+    "main_figure": "maiden",
+    "symbols": [
+      "large star",
+      "small stars",
+      "water"
+    ],
+    "mood": "hopeful serene",
+    "slug": "the_star"
+  },
+  {
+    "card_name": "The Moon",
+    "arcana": "major",
+    "suit": null,
+    "rank": null,
+    "layout_type": "path_scene",
+    "main_figure": "moon path",
+    "symbols": [
+      "moon",
+      "dog",
+      "wolf",
+      "crayfish",
+      "towers"
+    ],
+    "mood": "dreamlike uncertain",
+    "slug": "the_moon"
+  },
+  {
+    "card_name": "The Sun",
+    "arcana": "major",
+    "suit": null,
+    "rank": null,
+    "layout_type": "single_figure_center",
+    "main_figure": "radiant child",
+    "symbols": [
+      "sun",
+      "sunflowers",
+      "horse"
+    ],
+    "mood": "bright triumphant",
+    "slug": "the_sun"
+  },
+  {
+    "card_name": "Judgement",
+    "arcana": "major",
+    "suit": null,
+    "rank": null,
+    "layout_type": "top_bottom_scene",
+    "main_figure": "angel",
+    "symbols": [
+      "trumpet",
+      "coffins",
+      "people"
+    ],
+    "mood": "awakening redemptive",
+    "slug": "judgement"
+  },
+  {
+    "card_name": "The World",
+    "arcana": "major",
+    "suit": null,
+    "rank": null,
+    "layout_type": "symbol_center",
+    "main_figure": "dancing figure",
+    "symbols": [
+      "wreath",
+      "four creatures",
+      "batons"
+    ],
+    "mood": "complete harmonious",
+    "slug": "the_world"
+  },
+  {
+    "card_name": "Ace of Cups",
+    "arcana": "minor",
+    "suit": "cups",
+    "rank": "ace",
+    "layout_type": "symbol_center",
+    "main_figure": "single cup",
+    "symbols": [
+      "cup",
+      "halo",
+      "cloud"
+    ],
+    "count": 1,
+    "mood": "pure potential",
+    "slug": "ace_of_cups"
+  },
+  {
+    "card_name": "Two of Cups",
+    "arcana": "minor",
+    "suit": "cups",
+    "rank": "two",
+    "layout_type": "multi_symbol",
+    "main_figure": "none",
+    "symbols": [
+      "cup",
+      "cup"
+    ],
+    "count": 2,
+    "mood": "symbolic composition",
+    "slug": "two_of_cups"
+  },
+  {
+    "card_name": "Three of Cups",
+    "arcana": "minor",
+    "suit": "cups",
+    "rank": "three",
+    "layout_type": "multi_symbol",
+    "main_figure": "none",
+    "symbols": [
+      "cup",
+      "cup",
+      "cup"
+    ],
+    "count": 3,
+    "mood": "symbolic composition",
+    "slug": "three_of_cups"
+  },
+  {
+    "card_name": "Four of Cups",
+    "arcana": "minor",
+    "suit": "cups",
+    "rank": "four",
+    "layout_type": "multi_symbol",
+    "main_figure": "none",
+    "symbols": [
+      "cup",
+      "cup",
+      "cup",
+      "cup"
+    ],
+    "count": 4,
+    "mood": "symbolic composition",
+    "slug": "four_of_cups"
+  },
+  {
+    "card_name": "Five of Cups",
+    "arcana": "minor",
+    "suit": "cups",
+    "rank": "five",
+    "layout_type": "multi_symbol",
+    "main_figure": "none",
+    "symbols": [
+      "cup",
+      "cup",
+      "cup",
+      "cup",
+      "cup"
+    ],
+    "count": 5,
+    "mood": "symbolic composition",
+    "slug": "five_of_cups"
+  },
+  {
+    "card_name": "Six of Cups",
+    "arcana": "minor",
+    "suit": "cups",
+    "rank": "six",
+    "layout_type": "multi_symbol",
+    "main_figure": "none",
+    "symbols": [
+      "cup",
+      "cup",
+      "cup",
+      "cup",
+      "cup",
+      "cup"
+    ],
+    "count": 6,
+    "mood": "symbolic composition",
+    "slug": "six_of_cups"
+  },
+  {
+    "card_name": "Seven of Cups",
+    "arcana": "minor",
+    "suit": "cups",
+    "rank": "seven",
+    "layout_type": "multi_symbol",
+    "main_figure": "none",
+    "symbols": [
+      "cup",
+      "cup",
+      "cup",
+      "cup",
+      "cup",
+      "cup",
+      "cup"
+    ],
+    "count": 7,
+    "mood": "symbolic composition",
+    "slug": "seven_of_cups"
+  },
+  {
+    "card_name": "Eight of Cups",
+    "arcana": "minor",
+    "suit": "cups",
+    "rank": "eight",
+    "layout_type": "multi_symbol",
+    "main_figure": "none",
+    "symbols": [
+      "cup",
+      "cup",
+      "cup",
+      "cup",
+      "cup",
+      "cup",
+      "cup",
+      "cup"
+    ],
+    "count": 8,
+    "mood": "symbolic composition",
+    "slug": "eight_of_cups"
+  },
+  {
+    "card_name": "Nine of Cups",
+    "arcana": "minor",
+    "suit": "cups",
+    "rank": "nine",
+    "layout_type": "multi_symbol",
+    "main_figure": "none",
+    "symbols": [
+      "cup",
+      "cup",
+      "cup",
+      "cup",
+      "cup",
+      "cup",
+      "cup",
+      "cup",
+      "cup"
+    ],
+    "count": 9,
+    "mood": "symbolic composition",
+    "slug": "nine_of_cups"
+  },
+  {
+    "card_name": "Ten of Cups",
+    "arcana": "minor",
+    "suit": "cups",
+    "rank": "ten",
+    "layout_type": "multi_symbol",
+    "main_figure": "none",
+    "symbols": [
+      "cup",
+      "cup",
+      "cup",
+      "cup",
+      "cup",
+      "cup",
+      "cup",
+      "cup",
+      "cup",
+      "cup"
+    ],
+    "count": 10,
+    "mood": "symbolic composition",
+    "slug": "ten_of_cups"
+  },
+  {
+    "card_name": "Page of Cups",
+    "arcana": "minor",
+    "suit": "cups",
+    "rank": "page",
+    "layout_type": "court_figure",
+    "main_figure": "page",
+    "symbols": [
+      "cup",
+      "banner"
+    ],
+    "count": null,
+    "mood": "curious youthful",
+    "slug": "page_of_cups"
+  },
+  {
+    "card_name": "Knight of Cups",
+    "arcana": "minor",
+    "suit": "cups",
+    "rank": "knight",
+    "layout_type": "court_figure",
+    "main_figure": "knight",
+    "symbols": [
+      "cup",
+      "banner"
+    ],
+    "count": null,
+    "mood": "dynamic determined",
+    "slug": "knight_of_cups"
+  },
+  {
+    "card_name": "Queen of Cups",
+    "arcana": "minor",
+    "suit": "cups",
+    "rank": "queen",
+    "layout_type": "court_figure",
+    "main_figure": "queen",
+    "symbols": [
+      "cup",
+      "throne"
+    ],
+    "count": null,
+    "mood": "calm composed",
+    "slug": "queen_of_cups"
+  },
+  {
+    "card_name": "King of Cups",
+    "arcana": "minor",
+    "suit": "cups",
+    "rank": "king",
+    "layout_type": "court_figure",
+    "main_figure": "king",
+    "symbols": [
+      "cup",
+      "throne"
+    ],
+    "count": null,
+    "mood": "authoritative stable",
+    "slug": "king_of_cups"
+  },
+  {
+    "card_name": "Ace of Swords",
+    "arcana": "minor",
+    "suit": "swords",
+    "rank": "ace",
+    "layout_type": "symbol_center",
+    "main_figure": "single sword",
+    "symbols": [
+      "sword",
+      "halo",
+      "cloud"
+    ],
+    "count": 1,
+    "mood": "pure potential",
+    "slug": "ace_of_swords"
+  },
+  {
+    "card_name": "Two of Swords",
+    "arcana": "minor",
+    "suit": "swords",
+    "rank": "two",
+    "layout_type": "multi_symbol",
+    "main_figure": "none",
+    "symbols": [
+      "sword",
+      "sword"
+    ],
+    "count": 2,
+    "mood": "symbolic composition",
+    "slug": "two_of_swords"
+  },
+  {
+    "card_name": "Three of Swords",
+    "arcana": "minor",
+    "suit": "swords",
+    "rank": "three",
+    "layout_type": "multi_symbol",
+    "main_figure": "none",
+    "symbols": [
+      "sword",
+      "sword",
+      "sword"
+    ],
+    "count": 3,
+    "mood": "symbolic composition",
+    "slug": "three_of_swords"
+  },
+  {
+    "card_name": "Four of Swords",
+    "arcana": "minor",
+    "suit": "swords",
+    "rank": "four",
+    "layout_type": "multi_symbol",
+    "main_figure": "none",
+    "symbols": [
+      "sword",
+      "sword",
+      "sword",
+      "sword"
+    ],
+    "count": 4,
+    "mood": "symbolic composition",
+    "slug": "four_of_swords"
+  },
+  {
+    "card_name": "Five of Swords",
+    "arcana": "minor",
+    "suit": "swords",
+    "rank": "five",
+    "layout_type": "multi_symbol",
+    "main_figure": "none",
+    "symbols": [
+      "sword",
+      "sword",
+      "sword",
+      "sword",
+      "sword"
+    ],
+    "count": 5,
+    "mood": "symbolic composition",
+    "slug": "five_of_swords"
+  },
+  {
+    "card_name": "Six of Swords",
+    "arcana": "minor",
+    "suit": "swords",
+    "rank": "six",
+    "layout_type": "multi_symbol",
+    "main_figure": "none",
+    "symbols": [
+      "sword",
+      "sword",
+      "sword",
+      "sword",
+      "sword",
+      "sword"
+    ],
+    "count": 6,
+    "mood": "symbolic composition",
+    "slug": "six_of_swords"
+  },
+  {
+    "card_name": "Seven of Swords",
+    "arcana": "minor",
+    "suit": "swords",
+    "rank": "seven",
+    "layout_type": "multi_symbol",
+    "main_figure": "none",
+    "symbols": [
+      "sword",
+      "sword",
+      "sword",
+      "sword",
+      "sword",
+      "sword",
+      "sword"
+    ],
+    "count": 7,
+    "mood": "symbolic composition",
+    "slug": "seven_of_swords"
+  },
+  {
+    "card_name": "Eight of Swords",
+    "arcana": "minor",
+    "suit": "swords",
+    "rank": "eight",
+    "layout_type": "multi_symbol",
+    "main_figure": "none",
+    "symbols": [
+      "sword",
+      "sword",
+      "sword",
+      "sword",
+      "sword",
+      "sword",
+      "sword",
+      "sword"
+    ],
+    "count": 8,
+    "mood": "symbolic composition",
+    "slug": "eight_of_swords"
+  },
+  {
+    "card_name": "Nine of Swords",
+    "arcana": "minor",
+    "suit": "swords",
+    "rank": "nine",
+    "layout_type": "multi_symbol",
+    "main_figure": "none",
+    "symbols": [
+      "sword",
+      "sword",
+      "sword",
+      "sword",
+      "sword",
+      "sword",
+      "sword",
+      "sword",
+      "sword"
+    ],
+    "count": 9,
+    "mood": "symbolic composition",
+    "slug": "nine_of_swords"
+  },
+  {
+    "card_name": "Ten of Swords",
+    "arcana": "minor",
+    "suit": "swords",
+    "rank": "ten",
+    "layout_type": "multi_symbol",
+    "main_figure": "none",
+    "symbols": [
+      "sword",
+      "sword",
+      "sword",
+      "sword",
+      "sword",
+      "sword",
+      "sword",
+      "sword",
+      "sword",
+      "sword"
+    ],
+    "count": 10,
+    "mood": "symbolic composition",
+    "slug": "ten_of_swords"
+  },
+  {
+    "card_name": "Page of Swords",
+    "arcana": "minor",
+    "suit": "swords",
+    "rank": "page",
+    "layout_type": "court_figure",
+    "main_figure": "page",
+    "symbols": [
+      "sword",
+      "banner"
+    ],
+    "count": null,
+    "mood": "curious youthful",
+    "slug": "page_of_swords"
+  },
+  {
+    "card_name": "Knight of Swords",
+    "arcana": "minor",
+    "suit": "swords",
+    "rank": "knight",
+    "layout_type": "court_figure",
+    "main_figure": "knight",
+    "symbols": [
+      "sword",
+      "banner"
+    ],
+    "count": null,
+    "mood": "dynamic determined",
+    "slug": "knight_of_swords"
+  },
+  {
+    "card_name": "Queen of Swords",
+    "arcana": "minor",
+    "suit": "swords",
+    "rank": "queen",
+    "layout_type": "court_figure",
+    "main_figure": "queen",
+    "symbols": [
+      "sword",
+      "throne"
+    ],
+    "count": null,
+    "mood": "calm composed",
+    "slug": "queen_of_swords"
+  },
+  {
+    "card_name": "King of Swords",
+    "arcana": "minor",
+    "suit": "swords",
+    "rank": "king",
+    "layout_type": "court_figure",
+    "main_figure": "king",
+    "symbols": [
+      "sword",
+      "throne"
+    ],
+    "count": null,
+    "mood": "authoritative stable",
+    "slug": "king_of_swords"
+  },
+  {
+    "card_name": "Ace of Wands",
+    "arcana": "minor",
+    "suit": "wands",
+    "rank": "ace",
+    "layout_type": "symbol_center",
+    "main_figure": "single wand",
+    "symbols": [
+      "wand",
+      "halo",
+      "cloud"
+    ],
+    "count": 1,
+    "mood": "pure potential",
+    "slug": "ace_of_wands"
+  },
+  {
+    "card_name": "Two of Wands",
+    "arcana": "minor",
+    "suit": "wands",
+    "rank": "two",
+    "layout_type": "multi_symbol",
+    "main_figure": "none",
+    "symbols": [
+      "wand",
+      "wand"
+    ],
+    "count": 2,
+    "mood": "symbolic composition",
+    "slug": "two_of_wands"
+  },
+  {
+    "card_name": "Three of Wands",
+    "arcana": "minor",
+    "suit": "wands",
+    "rank": "three",
+    "layout_type": "multi_symbol",
+    "main_figure": "none",
+    "symbols": [
+      "wand",
+      "wand",
+      "wand"
+    ],
+    "count": 3,
+    "mood": "symbolic composition",
+    "slug": "three_of_wands"
+  },
+  {
+    "card_name": "Four of Wands",
+    "arcana": "minor",
+    "suit": "wands",
+    "rank": "four",
+    "layout_type": "multi_symbol",
+    "main_figure": "none",
+    "symbols": [
+      "wand",
+      "wand",
+      "wand",
+      "wand"
+    ],
+    "count": 4,
+    "mood": "symbolic composition",
+    "slug": "four_of_wands"
+  },
+  {
+    "card_name": "Five of Wands",
+    "arcana": "minor",
+    "suit": "wands",
+    "rank": "five",
+    "layout_type": "multi_symbol",
+    "main_figure": "none",
+    "symbols": [
+      "wand",
+      "wand",
+      "wand",
+      "wand",
+      "wand"
+    ],
+    "count": 5,
+    "mood": "symbolic composition",
+    "slug": "five_of_wands"
+  },
+  {
+    "card_name": "Six of Wands",
+    "arcana": "minor",
+    "suit": "wands",
+    "rank": "six",
+    "layout_type": "multi_symbol",
+    "main_figure": "none",
+    "symbols": [
+      "wand",
+      "wand",
+      "wand",
+      "wand",
+      "wand",
+      "wand"
+    ],
+    "count": 6,
+    "mood": "symbolic composition",
+    "slug": "six_of_wands"
+  },
+  {
+    "card_name": "Seven of Wands",
+    "arcana": "minor",
+    "suit": "wands",
+    "rank": "seven",
+    "layout_type": "multi_symbol",
+    "main_figure": "none",
+    "symbols": [
+      "wand",
+      "wand",
+      "wand",
+      "wand",
+      "wand",
+      "wand",
+      "wand"
+    ],
+    "count": 7,
+    "mood": "symbolic composition",
+    "slug": "seven_of_wands"
+  },
+  {
+    "card_name": "Eight of Wands",
+    "arcana": "minor",
+    "suit": "wands",
+    "rank": "eight",
+    "layout_type": "multi_symbol",
+    "main_figure": "none",
+    "symbols": [
+      "wand",
+      "wand",
+      "wand",
+      "wand",
+      "wand",
+      "wand",
+      "wand",
+      "wand"
+    ],
+    "count": 8,
+    "mood": "symbolic composition",
+    "slug": "eight_of_wands"
+  },
+  {
+    "card_name": "Nine of Wands",
+    "arcana": "minor",
+    "suit": "wands",
+    "rank": "nine",
+    "layout_type": "multi_symbol",
+    "main_figure": "none",
+    "symbols": [
+      "wand",
+      "wand",
+      "wand",
+      "wand",
+      "wand",
+      "wand",
+      "wand",
+      "wand",
+      "wand"
+    ],
+    "count": 9,
+    "mood": "symbolic composition",
+    "slug": "nine_of_wands"
+  },
+  {
+    "card_name": "Ten of Wands",
+    "arcana": "minor",
+    "suit": "wands",
+    "rank": "ten",
+    "layout_type": "multi_symbol",
+    "main_figure": "none",
+    "symbols": [
+      "wand",
+      "wand",
+      "wand",
+      "wand",
+      "wand",
+      "wand",
+      "wand",
+      "wand",
+      "wand",
+      "wand"
+    ],
+    "count": 10,
+    "mood": "symbolic composition",
+    "slug": "ten_of_wands"
+  },
+  {
+    "card_name": "Page of Wands",
+    "arcana": "minor",
+    "suit": "wands",
+    "rank": "page",
+    "layout_type": "court_figure",
+    "main_figure": "page",
+    "symbols": [
+      "wand",
+      "banner"
+    ],
+    "count": null,
+    "mood": "curious youthful",
+    "slug": "page_of_wands"
+  },
+  {
+    "card_name": "Knight of Wands",
+    "arcana": "minor",
+    "suit": "wands",
+    "rank": "knight",
+    "layout_type": "court_figure",
+    "main_figure": "knight",
+    "symbols": [
+      "wand",
+      "banner"
+    ],
+    "count": null,
+    "mood": "dynamic determined",
+    "slug": "knight_of_wands"
+  },
+  {
+    "card_name": "Queen of Wands",
+    "arcana": "minor",
+    "suit": "wands",
+    "rank": "queen",
+    "layout_type": "court_figure",
+    "main_figure": "queen",
+    "symbols": [
+      "wand",
+      "throne"
+    ],
+    "count": null,
+    "mood": "calm composed",
+    "slug": "queen_of_wands"
+  },
+  {
+    "card_name": "King of Wands",
+    "arcana": "minor",
+    "suit": "wands",
+    "rank": "king",
+    "layout_type": "court_figure",
+    "main_figure": "king",
+    "symbols": [
+      "wand",
+      "throne"
+    ],
+    "count": null,
+    "mood": "authoritative stable",
+    "slug": "king_of_wands"
+  },
+  {
+    "card_name": "Ace of Pentacles",
+    "arcana": "minor",
+    "suit": "pentacles",
+    "rank": "ace",
+    "layout_type": "symbol_center",
+    "main_figure": "single pentacle",
+    "symbols": [
+      "pentacle",
+      "halo",
+      "cloud"
+    ],
+    "count": 1,
+    "mood": "pure potential",
+    "slug": "ace_of_pentacles"
+  },
+  {
+    "card_name": "Two of Pentacles",
+    "arcana": "minor",
+    "suit": "pentacles",
+    "rank": "two",
+    "layout_type": "multi_symbol",
+    "main_figure": "none",
+    "symbols": [
+      "pentacle",
+      "pentacle"
+    ],
+    "count": 2,
+    "mood": "symbolic composition",
+    "slug": "two_of_pentacles"
+  },
+  {
+    "card_name": "Three of Pentacles",
+    "arcana": "minor",
+    "suit": "pentacles",
+    "rank": "three",
+    "layout_type": "multi_symbol",
+    "main_figure": "none",
+    "symbols": [
+      "pentacle",
+      "pentacle",
+      "pentacle"
+    ],
+    "count": 3,
+    "mood": "symbolic composition",
+    "slug": "three_of_pentacles"
+  },
+  {
+    "card_name": "Four of Pentacles",
+    "arcana": "minor",
+    "suit": "pentacles",
+    "rank": "four",
+    "layout_type": "multi_symbol",
+    "main_figure": "none",
+    "symbols": [
+      "pentacle",
+      "pentacle",
+      "pentacle",
+      "pentacle"
+    ],
+    "count": 4,
+    "mood": "symbolic composition",
+    "slug": "four_of_pentacles"
+  },
+  {
+    "card_name": "Five of Pentacles",
+    "arcana": "minor",
+    "suit": "pentacles",
+    "rank": "five",
+    "layout_type": "multi_symbol",
+    "main_figure": "none",
+    "symbols": [
+      "pentacle",
+      "pentacle",
+      "pentacle",
+      "pentacle",
+      "pentacle"
+    ],
+    "count": 5,
+    "mood": "symbolic composition",
+    "slug": "five_of_pentacles"
+  },
+  {
+    "card_name": "Six of Pentacles",
+    "arcana": "minor",
+    "suit": "pentacles",
+    "rank": "six",
+    "layout_type": "multi_symbol",
+    "main_figure": "none",
+    "symbols": [
+      "pentacle",
+      "pentacle",
+      "pentacle",
+      "pentacle",
+      "pentacle",
+      "pentacle"
+    ],
+    "count": 6,
+    "mood": "symbolic composition",
+    "slug": "six_of_pentacles"
+  },
+  {
+    "card_name": "Seven of Pentacles",
+    "arcana": "minor",
+    "suit": "pentacles",
+    "rank": "seven",
+    "layout_type": "multi_symbol",
+    "main_figure": "none",
+    "symbols": [
+      "pentacle",
+      "pentacle",
+      "pentacle",
+      "pentacle",
+      "pentacle",
+      "pentacle",
+      "pentacle"
+    ],
+    "count": 7,
+    "mood": "symbolic composition",
+    "slug": "seven_of_pentacles"
+  },
+  {
+    "card_name": "Eight of Pentacles",
+    "arcana": "minor",
+    "suit": "pentacles",
+    "rank": "eight",
+    "layout_type": "multi_symbol",
+    "main_figure": "none",
+    "symbols": [
+      "pentacle",
+      "pentacle",
+      "pentacle",
+      "pentacle",
+      "pentacle",
+      "pentacle",
+      "pentacle",
+      "pentacle"
+    ],
+    "count": 8,
+    "mood": "symbolic composition",
+    "slug": "eight_of_pentacles"
+  },
+  {
+    "card_name": "Nine of Pentacles",
+    "arcana": "minor",
+    "suit": "pentacles",
+    "rank": "nine",
+    "layout_type": "multi_symbol",
+    "main_figure": "none",
+    "symbols": [
+      "pentacle",
+      "pentacle",
+      "pentacle",
+      "pentacle",
+      "pentacle",
+      "pentacle",
+      "pentacle",
+      "pentacle",
+      "pentacle"
+    ],
+    "count": 9,
+    "mood": "symbolic composition",
+    "slug": "nine_of_pentacles"
+  },
+  {
+    "card_name": "Ten of Pentacles",
+    "arcana": "minor",
+    "suit": "pentacles",
+    "rank": "ten",
+    "layout_type": "multi_symbol",
+    "main_figure": "none",
+    "symbols": [
+      "pentacle",
+      "pentacle",
+      "pentacle",
+      "pentacle",
+      "pentacle",
+      "pentacle",
+      "pentacle",
+      "pentacle",
+      "pentacle",
+      "pentacle"
+    ],
+    "count": 10,
+    "mood": "symbolic composition",
+    "slug": "ten_of_pentacles"
+  },
+  {
+    "card_name": "Page of Pentacles",
+    "arcana": "minor",
+    "suit": "pentacles",
+    "rank": "page",
+    "layout_type": "court_figure",
+    "main_figure": "page",
+    "symbols": [
+      "pentacle",
+      "banner"
+    ],
+    "count": null,
+    "mood": "curious youthful",
+    "slug": "page_of_pentacles"
+  },
+  {
+    "card_name": "Knight of Pentacles",
+    "arcana": "minor",
+    "suit": "pentacles",
+    "rank": "knight",
+    "layout_type": "court_figure",
+    "main_figure": "knight",
+    "symbols": [
+      "pentacle",
+      "banner"
+    ],
+    "count": null,
+    "mood": "dynamic determined",
+    "slug": "knight_of_pentacles"
+  },
+  {
+    "card_name": "Queen of Pentacles",
+    "arcana": "minor",
+    "suit": "pentacles",
+    "rank": "queen",
+    "layout_type": "court_figure",
+    "main_figure": "queen",
+    "symbols": [
+      "pentacle",
+      "throne"
+    ],
+    "count": null,
+    "mood": "calm composed",
+    "slug": "queen_of_pentacles"
+  },
+  {
+    "card_name": "King of Pentacles",
+    "arcana": "minor",
+    "suit": "pentacles",
+    "rank": "king",
+    "layout_type": "court_figure",
+    "main_figure": "king",
+    "symbols": [
+      "pentacle",
+      "throne"
+    ],
+    "count": null,
+    "mood": "authoritative stable",
+    "slug": "king_of_pentacles"
+  }
+]
